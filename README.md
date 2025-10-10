@@ -26,5 +26,4 @@ AI-powered stock prediction platform using LSTM neural networks with 97% accurac
 2. View comprehensive analysis with moving averages
 3. Get AI-powered price predictions with confidence metrics
 
-Built by **Ketul Mehta** - Full-Stack Developer 
 
